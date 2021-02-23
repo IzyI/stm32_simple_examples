@@ -1,0 +1,10 @@
+simple_uart/.cproject
+/.idea
+/simple_uart/.idea
+/simple_uart/cmake-build-debug/
+/simple_uart/Drivers/
+/simple_uart/.cproject
+/simple_uart/.mxproject
+/simple_uart/.project
+/simple_uart/CMakeLists.txt
+/simple_uart/CMakeLists_template.txt
