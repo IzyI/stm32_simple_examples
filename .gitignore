@@ -7,3 +7,4 @@ simple_uart/.cproject
 /simple_uart/.project
 /simple_uart/CMakeLists.txt
 /simple_uart/CMakeLists_template.txt
+/simple_makefile_cmsis/.idea/
